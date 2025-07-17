@@ -33,6 +33,7 @@ CITY_SOLAR_DATA = {
     "indore":         {"grid_tariff": 7.00, "export_rate": 3.90, "ghi": 5.5},
     "bhubaneswar":    {"grid_tariff": 6.10, "export_rate": 3.90, "ghi": 5.2},
     "varanasi":       {"grid_tariff": 7.10, "export_rate": 3.82, "ghi": 5.1},
+    "Other City":        {"grid_tariff": 6.85, "export_rate": 3.90, "ghi": 5.0},
     "default":        {"grid_tariff": 6.85, "export_rate": 3.90, "ghi": 5.0},
 }
 
